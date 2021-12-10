@@ -1,3 +1,3 @@
 # Calculator App
 This is a four-function calculator.
-![example](/public/screenshot.png)
+<img src="/public/screenshot.png" width=50% height=50%>
